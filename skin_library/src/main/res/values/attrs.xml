@@ -32,6 +32,11 @@
         <attr name="android:background" />
     </declare-styleable>
 
+    <!-- SkinnableFrameLayout控件 -->
+    <declare-styleable name="SkinnableFrameLayout">
+        <attr name="android:background" />
+    </declare-styleable>
+
     <!-- 后续架构师拓展………………………………………………………………………… -->
 
 </resources>
