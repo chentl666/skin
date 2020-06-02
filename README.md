@@ -22,7 +22,7 @@ dependencies {
 }
 ```
 
-3.重写Application
+3.Application
 ```
 public class SkinApplication extends Application {
     @Override
